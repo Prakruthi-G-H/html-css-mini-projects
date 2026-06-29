@@ -2,6 +2,9 @@
 
 A collection of beginner-friendly HTML & CSS mini projects created to strengthen my front-end development skills. Each project focuses on different UI components, layouts, and styling techniques while following clean and organized code practices.
 
+## ✨ What's Included
+
+
 ## 📁 Project List
 
 | Project Name         | Description                                  |
