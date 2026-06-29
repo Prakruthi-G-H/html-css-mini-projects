@@ -7,6 +7,7 @@ A collection of beginner-friendly HTML & CSS mini projects created to strengthen
 - Pure HTML & CSS projects
 - Clean folder structure
 - Beginner-friendly code
+- Easy to understand and customize
 
 ## 📁 Project List
 
