@@ -66,6 +66,7 @@ You can clone the entire repo and explore each project individually.
 - Host projects with GitHub Pages  
 - Build a full personal portfolio site using these components  
 - Add responsiveness to all projects for mobile view
+- Include dark mode support
 
 ## 👩‍💻 Developed By
 
