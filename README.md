@@ -5,6 +5,7 @@ A collection of beginner-friendly HTML & CSS mini projects created to strengthen
 ## ✨ What's Included
 
 - Pure HTML & CSS projects
+- Clean folder structure
 
 ## 📁 Project List
 
