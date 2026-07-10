@@ -2,10 +2,9 @@
 
 This project is a simple and elegant **Accordion UI component** built using **HTML** and **CSS**. It's designed to display multiple FAQs (Frequently Asked Questions) about HTML, CSS, JavaScript, Java, and Python, allowing users to expand and collapse each answer interactively.
 
-<!--  ## 🔗 Live Demo Links
+ ## 🔗 Live Demo Links
 
   Accordion Page - [Live Demo](https://accordion-page-ui.netlify.app/)
--->
 
 ## 🔧 Technologies Used
 
