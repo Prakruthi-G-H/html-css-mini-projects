@@ -10,7 +10,7 @@ It demonstrates how to create custom-styled **radio buttons** for selecting diff
  
 ## 🔧 Technologies Used
 
-- **HTML5** — For structure and layout
+- **HTML5** — For structuring the layout
 - **CSS3** — For custom radio button styling, animations, and gradient effects  
 
 ## 📁 Folder Structure
