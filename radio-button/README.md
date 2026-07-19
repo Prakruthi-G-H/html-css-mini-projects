@@ -1,7 +1,6 @@
 # 🎓 Custom Radio Buttons – Course Selection Card
 
-This project showcases a **beautifully designed Course Selection Card** built using **HTML** and **CSS**.  
-It demonstrates how to create custom-styled **radio buttons** for selecting different development courses — with smooth hover and selection effects.
+This project showcases a modern **Course Selection Card** built using **HTML5** and **CSS3**. It demonstrates how to create fully custom-styled radio buttons with smooth hover effects, animated selection states, and a responsive layout.
 
 <!--  ## 🔗 Live Demo Link
 
