@@ -16,7 +16,7 @@ It demonstrates how to create custom-styled **radio buttons** for selecting diff
 ## 📁 Folder Structure
 
 - `index.html` → Main HTML file containing the course options and input elements  
-- `RadioButton.css` → Stylesheet for the entire UI design and custom radio button effects  
+- `RadioButton.css` → Stylesheet for the UI design and custom radio button effects  
 - `README.md` → Project documentation
 
 ## 📌 Features
