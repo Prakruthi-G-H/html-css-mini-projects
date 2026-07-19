@@ -25,7 +25,7 @@ It demonstrates how to create custom-styled **radio buttons** for selecting diff
 - 🖱️ Custom Radio Buttons – Smooth hover and click effects replacing default inputs
 - 💡 Interactive Feedback – Selection highlight with color and border transitions
 - 📱 Responsive Layout – Adapts seamlessly across different screen sizes
-- ✨ Simple & Clean Code – Easy to understand and modify for beginners
+- ✨ Simple & Clean Code – Easy to understand, customize for beginners
 
 ## ✨ Future Enhancements
 
