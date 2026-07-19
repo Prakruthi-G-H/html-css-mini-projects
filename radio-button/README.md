@@ -24,7 +24,7 @@ It demonstrates how to create custom-styled **radio buttons** for selecting diff
 - 🎨 Modern UI Design – Gradient backgrounds with attractive course selection cards
 - 🖱️ Custom Radio Buttons – Smooth hover and click effects replacing default inputs
 - 💡 Interactive Feedback – Selection highlight with color and border transitions
-- 📱 Responsive Layout – Fits perfectly across all devices and screen sizes
+- 📱 Responsive Layout – Adapts seamlessly across different screen sizes
 - ✨ Simple & Clean Code – Easy to understand and modify for beginners
 
 ## ✨ Future Enhancements
