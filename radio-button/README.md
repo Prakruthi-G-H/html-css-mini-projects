@@ -47,5 +47,5 @@ It demonstrates how to create custom-styled **radio buttons** for selecting diff
 
 **Prakruthi G H**  
 📍 Bangalore, India  
-📧 prakruthigh28@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/prakruthi-g-h
+📧 prakruthigh28@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/prakruthi-g-h)
