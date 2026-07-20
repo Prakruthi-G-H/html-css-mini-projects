@@ -42,7 +42,7 @@ Survey Form - [Live Demo]() -->
 - 💾 Store responses using LocalStorage
 - 🔁 Include a Reset Button
 - 📤 Integrate with Backend (Java + Spring Boot + MySQL)
-- 🔔 Add success/error messages after submitting
+- 🔔 Display Success/Error Messages on Submission
    
 ## 👩‍💻 Developed by
 
