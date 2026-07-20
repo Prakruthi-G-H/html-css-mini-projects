@@ -20,7 +20,7 @@ Survey Form - [Live Demo]() -->
 
 ## 📌 Features
 
-- 🎨 Clean and Modern UI – Visually appealing purple–gold theme
+- 🎨 Clean & Modern UI — Elegant purple–gold themed design
 - 📱 Fully Responsive Design – Works smoothly on mobile, tablet, and desktop
 - 🧩 Grid-Based Alignment – Neatly arranges multiple form fields
 - 🧾 Comprehensive Input Fields – Collects name, address, contact info, and personal details
