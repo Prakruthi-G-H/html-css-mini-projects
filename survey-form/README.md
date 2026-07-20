@@ -24,7 +24,7 @@ Survey Form - [Live Demo]() -->
 - 📱 Fully Responsive — Works seamlessly across mobile, tablet, and desktop
 - 🧩 Grid-Based Layout — Well-structured alignment of input fields
 - 🧾 Comprehensive Input Fields – Collects name, address, contact info, and personal details
-- 🧒 Beginner-Friendly Code – Simple HTML + CSS structure easy to understand and customize
+- 🧒 Beginner-Friendly Code — Easy to understand and modify
 
 ## 🚀 How to Run
   
