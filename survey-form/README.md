@@ -8,8 +8,8 @@ Survey Form - [Live Demo]() -->
 
 ## 🔧 Technologies Used
 
-- **HTML5** — Structured form inputs and layout  
-- **CSS3** — Styling, spacing, responsiveness, and hover/focus effects  
+- **HTML5** — Semantic structure and form elements 
+- **CSS3** — Styling, layout design, responsiveness, and UI enhancements 
 
 ## 📁 Folder Structure
 
