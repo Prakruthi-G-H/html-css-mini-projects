@@ -1,7 +1,7 @@
 # 📋 Survey Form
 
-This project is a responsive survey form built using HTML and CSS. The form collects user information such as name, address, contact details, personal details, and ratings. It is designed with a clean layout and user-friendly interface.
-
+A responsive and user-friendly Survey Form built using HTML5 and CSS3.
+This project demonstrates how to design structured forms with clean layouts, proper alignment, and modern UI styling.
 <!-- ## 🔗 Live Demo Links
 
 Survey Form - [Live Demo]() -->
