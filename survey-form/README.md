@@ -44,7 +44,7 @@ Survey Form - [Live Demo]() -->
 - 📤 Integrate with Backend (Java + Spring Boot + MySQL)
 - 🔔 Display Success/Error Messages on Submission
    
-## 👩‍💻 Developed by
+## 👩‍💻 Author
 
 **Prakruthi G H**  
 📍 Bangalore, India  
