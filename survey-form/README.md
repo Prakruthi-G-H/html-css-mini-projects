@@ -22,7 +22,7 @@ Survey Form - [Live Demo]() -->
 
 - 🎨 Clean & Modern UI — Elegant purple–gold themed design
 - 📱 Fully Responsive — Works seamlessly across mobile, tablet, and desktop
-- 🧩 Grid-Based Alignment – Neatly arranges multiple form fields
+- 🧩 Grid-Based Layout — Well-structured alignment of input fields
 - 🧾 Comprehensive Input Fields – Collects name, address, contact info, and personal details
 - 🧒 Beginner-Friendly Code – Simple HTML + CSS structure easy to understand and customize
 
