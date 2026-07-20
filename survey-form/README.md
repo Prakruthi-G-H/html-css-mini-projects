@@ -41,7 +41,7 @@ Survey Form - [Live Demo]() -->
 - 📝 Add JavaScript validation for all fields
 - 💾 Store responses using LocalStorage
 - 🔁 Include a Reset Button
-- 📤 Integrate with backend (Java + MySQL / Spring Boot) to store submissions
+- 📤 Integrate with Backend (Java + Spring Boot + MySQL)
 - 🔔 Add success/error messages after submitting
    
 ## 👩‍💻 Developed by
