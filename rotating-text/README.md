@@ -1,7 +1,7 @@
 ## Rotating Text Animation 🎨✨
 
 A simple and stylish rotating text animation built using **HTML5** and **CSS3**.
-This project demonstrates how to create a vertical text sliding effect using CSS animations.
+This project demonstrates how to create a smooth **vertical rotating text effect** using CSS keyframe animations without any JavaScript.
 
  <!-- ## 🔗 Live Demo Links
 
