@@ -10,7 +10,7 @@ This project demonstrates how to create a smooth **vertical rotating text effect
 
 ## 🔧 Technologies Used
 
-- **HTML5** – Structure of headings and text blocks  
+- **HTML5** – Structure of the webpage
 - **CSS3** – Animation, layout (Flexbox), responsiveness, and styling  
 
 
