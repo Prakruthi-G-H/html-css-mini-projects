@@ -22,7 +22,7 @@ This project demonstrates how to create a smooth **vertical rotating text effect
 
 ## 📌 Features 
 
-- 🔄 **Smooth Vertical Text Rotation** – Created using CSS keyframe animations
+- 🔄 **Smooth Vertical Text Rotation** using CSS keyframe animations
 - 🎨 **Pure HTML & CSS Only** – No JavaScript required
 - 📱 **Fully Responsive Design** – Auto-adjusts font sizes for mobile and tablet
 - 📦 **Simple & Lightweight** – Fast loading and beginner-friendly
