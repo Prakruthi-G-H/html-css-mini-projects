@@ -46,7 +46,7 @@ This project demonstrates how to create a smooth **vertical rotating text effect
    RotatingText.css
    ```
 
- 4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
+ 4. Open index.html in any modern web browser (Chrome, Firefox, Edge, etc.)
 
 ## ✨ Future Enhancements
 
