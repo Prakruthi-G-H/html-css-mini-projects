@@ -51,7 +51,7 @@ This project demonstrates how to create a smooth **vertical rotating text effect
 ## ✨ Future Enhancements
 
 - 🧠 Add JavaScript for dynamic text updates
-
+- 🎨 Include additional animation styles and transition effects
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  
