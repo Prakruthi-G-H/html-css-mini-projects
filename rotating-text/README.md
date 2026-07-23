@@ -39,9 +39,13 @@ This project demonstrates how to create a smooth **vertical rotating text effect
    ```bash
    cd rotating-text
    ```
- 3. Ensure both files are present in the folder:
-    - index.html
-    - RotatingText.css
+3. Ensure the following files are present:
+
+   ```
+   index.html
+   RotatingText.css
+   ```
+
  4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
 
 ## ✨ Future Enhancements
