@@ -50,7 +50,7 @@ This project demonstrates how to create a smooth **vertical rotating text effect
 
 ## ✨ Future Enhancements
 
-- 🧠 Add JavaScript for advanced dynamic text loading
+- 🧠 Add JavaScript for dynamic text updates
 
 ## 👩‍💻 Developed by
 
