@@ -34,7 +34,11 @@ This project demonstrates how to create a smooth **vertical rotating text effect
      ```bash
    git clone https://github.com/Prakruthi-G-H/html-css-mini-projects.git
    ```
- 2. Navigate to the folder: radio-button/
+ 2. Navigate to the project folder:
+
+   ```bash
+   cd rotating-text
+   ```
  3. Ensure both files are present in the folder:
     - index.html
     - RotatingText.css
