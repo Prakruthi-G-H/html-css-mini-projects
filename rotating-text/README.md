@@ -36,9 +36,9 @@ This project demonstrates how to create a smooth **vertical rotating text effect
    ```
  2. Navigate to the project folder:
 
-   ```bash
-   cd rotating-text
-   ```
+     ```bash
+       cd rotating-text
+     ```
 3. Ensure the following files are present:
 
    ```
