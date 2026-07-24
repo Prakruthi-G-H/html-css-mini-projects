@@ -13,12 +13,13 @@ Subscription Form - [Live Demo]() -->
 
 ## 📁 Folder Structure
 
-subscription-form/ 
-│── index.html 
-│── Subscriptionform.css 
-│── README.md 
+```text
+subscription-form/
+│── index.html
+│── Subscriptionform.css
+│── README.md
 └── Subcription Image.png
-
+```
 ## 📌 Features
 
 - 📱 **Fully Responsive Design** — Works perfectly on mobile, tablet, and desktop screens  
