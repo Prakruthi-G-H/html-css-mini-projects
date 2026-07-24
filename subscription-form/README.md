@@ -1,7 +1,6 @@
 # 📝 Subscription Form
 
-This project is a **responsive subscription form** built using **HTML** and **CSS**.  
-It allows users to enter their email address to subscribe for notifications or updates, all within a clean and modern UI.
+A responsive Subscription Form built using HTML5 and CSS3. This project provides a clean, modern interface where users can enter their email address to subscribe to notifications or updates.
 
 <!-- ## 🔗 Live Demo Links
 
