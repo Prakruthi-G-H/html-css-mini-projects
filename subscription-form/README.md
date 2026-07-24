@@ -13,10 +13,11 @@ Subscription Form - [Live Demo]() -->
 
 ## 📁 Folder Structure
 
-- `index.html` → Main HTML file  
-- `Subscriptionform.css` → Stylesheet for the page  
-- `README.md` → Project documentation  
-- `Subcription Image.png` → Image used in the subscription form  
+subscription-form/ 
+│── index.html 
+│── Subscriptionform.css 
+│── README.md 
+└── Subcription Image.png
 
 ## 📌 Features
 
