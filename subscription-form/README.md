@@ -23,7 +23,7 @@ subscription-form/
 ## 📌 Features
 
 - 📱 **Responsive Design**  — Optimized for mobile, tablet, and desktop devices
-- 🎨 **Modern UI** — Gradient background, clean typography, and a visually appealing layout  
+- 🎨 **Modern UI** — Attractive gradient background with a clean layout 
 - 🧩 **Grid Layout** — Form fields and image are neatly organized using CSS Grid
 - ✉️ **Email Input** — Users can enter their email to subscribe  
 - ✅ **No Spams Included** — Displays reassuring message under the form  
