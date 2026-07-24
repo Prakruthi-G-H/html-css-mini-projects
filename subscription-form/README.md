@@ -8,7 +8,7 @@ Subscription Form - [Live Demo]() -->
 
 ## 🔧 Technologies Used
 
-- **HTML5** — For the structure and input fields  
+- **HTML5** — Structure and form elements
 - **CSS3** — For styling, layout, gradients, and responsiveness 
 
 ## 📁 Folder Structure
