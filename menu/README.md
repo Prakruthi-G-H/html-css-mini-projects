@@ -1,7 +1,6 @@
 # Menu Page
 
-This project is a simple and stylish **Navigation Menu UI component** built using **HTML** and **CSS**.  
-It displays a clean, centered navigation bar with interactive hover effects, making it suitable for portfolio websites, landing pages, or small projects.
+This project is a simple and stylish Navigation Menu UI component built using HTML and CSS. It features a clean, centered navigation bar with smooth hover effects, making it suitable for portfolio websites, landing pages, or small web projects.
 
 <!--## 🔗 Live Demo Links
    Menu - [Live Demo]()  -->
