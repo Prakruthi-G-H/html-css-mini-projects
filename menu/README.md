@@ -35,7 +35,7 @@ menu/
  3. Ensure both files are present in the folder:
     - index.html
     - Menu.css
- 4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
+ 4. Open index.html in any modern web browser (Chrome, Firefox, Edge, etc.)
 
 ## ✨ Future Enhancements
 - 🔽 Add dropdown menus for each item
