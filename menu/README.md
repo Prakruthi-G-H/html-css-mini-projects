@@ -20,7 +20,7 @@ menu/
 
 
    ## 📌 Features
-- 🎨 **Clean & Modern UI** – Minimal and elegant menu design
+- 🎨 **Clean & Modern UI** – Minimal and elegant navigation design.
 - 📌 **Centered Navigation Bar** – Built using Flexbox for perfect alignment
 -  ✨ **Smooth Hover Animations** – Border and background transitions using pseudo-elements
 -  🔧 **Pure HTML & CSS Only** – No JavaScript required
