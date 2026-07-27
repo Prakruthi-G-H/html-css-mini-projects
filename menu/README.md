@@ -7,7 +7,7 @@ This project is a simple and stylish Navigation Menu UI component built using HT
 
 ## 🔧 Technologies Used
 
-- **HTML5** – Structure for navigation menu  
+- **HTML5** – Provides the structure for the navigation menu. 
 - **CSS3** –  Styling, transitions, hover effects, and layout    
 
 ## 📁 Folder Structure
