@@ -20,6 +20,7 @@ subscription-form/
 │── README.md
 └── Subcription Image.png
 ```
+
 ## 📌 Features
 
 - 📱 **Responsive Design**  — Optimized for mobile, tablet, and desktop devices
