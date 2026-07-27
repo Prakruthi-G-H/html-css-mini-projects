@@ -29,12 +29,6 @@ subscription-form/
 - ✉️ **Email Input** — Users can enter their email to subscribe  
 - ✅ **No Spam** — Displays a reassuring message below the form
 
-## ✨ Future Enhancements
-
-- Add JavaScript for email validation  
-- Integrate backend to store email addresses  
-- Add success/error messages on form submission  
-- Improve animations and transitions for better interactivity  
 
 ## 🚀 How to Run
 
@@ -57,6 +51,13 @@ cd html-css-mini-projects/subscription-form
 - `Subcription Image.png`
 
 4. Open `index.html` in any modern web browser (Chrome, Firefox, or Edge).
+
+## ✨ Future Enhancements
+
+- Add JavaScript for email validation  
+- Integrate backend to store email addresses  
+- Add success/error messages on form submission  
+- Improve animations and transitions for better interactivity  
 
    
 ## 👩‍💻 Author
