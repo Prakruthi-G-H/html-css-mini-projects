@@ -38,22 +38,27 @@ subscription-form/
 
 ## 🚀 How to Run
 
-1. Download or clone the repository:  
-   `git clone https://github.com/Prakruthi-G-H/html-css-mini-projects.git`
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Prakruthi-G-H/html-css-mini-projects.git
+```
+
 2. Navigate to the project folder:
 
-   ```bash
-   cd subscription-form
-   ```
+```bash
+cd html-css-mini-projects/subscription-form
+```
 
-3. Ensure the following files are present in the folder:
+3. Ensure the following files are present:
 
-   - `index.html`
-   - `Subscriptionform.css`
-   - `Subcription Image.png`
+- `index.html`
+- `Subscriptionform.css`
+- `Subcription Image.png`
 
-4. Open `index.html` in any modern web browser (e.g., Chrome, Firefox, or Edge).
+4. Open `index.html` in any modern web browser (Chrome, Firefox, or Edge).
 
+   
 ## 👩‍💻 Author
 
 **Prakruthi G H**  
