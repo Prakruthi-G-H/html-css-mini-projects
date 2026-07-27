@@ -11,9 +11,13 @@ This project is a simple and stylish Navigation Menu UI component built using HT
 - **CSS3** –  Used for styling, layout, transitions, and hover effects.   
 
 ## 📁 Folder Structure
-- `index.html` → Main HTML file
-- `Menu.css` → Main stylesheet 
-- `README.md` → Project documentation
+```text
+menu/
+├── index.html
+├── Menu.css
+└── README.md
+```
+
 
    ## 📌 Features
 - 🎨 **Clean & Modern UI** – Minimal and elegant menu design
