@@ -43,11 +43,15 @@ subscription-form/
 
    ```bash
    cd subscription-form
-3. Ensure both files are present in the folder:
-    - index.html
-    - Subscriptionform.css
-    - Subcription Image.png
-4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
+   ```
+
+3. Ensure the following files are present in the folder:
+
+   - `index.html`
+   - `Subscriptionform.css`
+   - `Subcription Image.png`
+
+4. Open `index.html` in any modern web browser (e.g., Chrome, Firefox, or Edge).
 
 ## 👩‍💻 Author
 
