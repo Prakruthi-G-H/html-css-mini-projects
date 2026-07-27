@@ -49,7 +49,7 @@ subscription-form/
     - Subcription Image.png
 4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
 
-## 👩‍💻 Developed by
+## 👩‍💻 Author
 
 **Prakruthi G H**  
 📍 Bangalore, India  
