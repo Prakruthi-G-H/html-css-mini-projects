@@ -24,7 +24,7 @@ menu/
 - 📌 **Centered Navigation Bar** – Built using Flexbox for perfect alignment
 -  ✨ **Smooth Hover Animations** – Interactive border and background transitions using CSS pseudo-elements.
 -  🔧 **Pure HTML & CSS** – No JavaScript required
--   🔰 **Beginner-Friendly Code** – Simple structure suitable for learning UI basics  
+-   🔰 **Beginner-Friendly Code** – Simple and easy-to-understand project structure.  
   
 ## 🚀 How to Run
   
