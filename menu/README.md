@@ -23,7 +23,7 @@ menu/
 - 🎨 **Clean & Modern UI** – Minimal and elegant navigation design.
 - 📌 **Centered Navigation Bar** – Built using Flexbox for perfect alignment
 -  ✨ **Smooth Hover Animations** – Interactive border and background transitions using CSS pseudo-elements.
--  🔧 **Pure HTML & CSS Only** – No JavaScript required
+-  🔧 **Pure HTML & CSS** – No JavaScript required
 -   🔰 **Beginner-Friendly Code** – Simple structure suitable for learning UI basics  
   
 ## 🚀 How to Run
