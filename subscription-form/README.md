@@ -26,7 +26,7 @@ subscription-form/
 - 🎨 **Modern UI** — Attractive gradient background with a clean layout 
 - 🧩 **Grid Layout** — Form fields and image are neatly organized using CSS Grid
 - ✉️ **Email Input** — Users can enter their email to subscribe  
-- ✅ **No Spams Included** — Displays reassuring message under the form  
+- ✅ **No Spam** — Displays a reassuring message below the form
 
 ## ✨ Future Enhancements
 
