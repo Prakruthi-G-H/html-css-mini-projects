@@ -41,7 +41,7 @@ menu/
 ## ✨ Future Enhancements
 - 🔽 Add dropdown menus for navigation items.
 - 📱 Implement a responsive hamburger menu for mobile devices.
-- 🔗 Add links to internal page sections
+- 🔗 Link menu items to different sections or pages.
 - 📌 Add active page indicator
 
     
