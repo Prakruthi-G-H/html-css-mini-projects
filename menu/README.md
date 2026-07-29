@@ -39,7 +39,7 @@ menu/
  4. Open index.html in any modern web browser (Chrome, Firefox, Edge, etc.)
 
 ## ✨ Future Enhancements
-- 🔽 Add dropdown menus for each item
+- 🔽 Add dropdown menus for navigation items.
 - 📱 Add mobile hamburger menu for small screens
 - 🔗 Add links to internal page sections
 - 📌 Add active page indicator
