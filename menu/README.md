@@ -40,7 +40,7 @@ menu/
 
 ## ✨ Future Enhancements
 - 🔽 Add dropdown menus for navigation items.
-- 📱 Add mobile hamburger menu for small screens
+- 📱 Implement a responsive hamburger menu for mobile devices.
 - 🔗 Add links to internal page sections
 - 📌 Add active page indicator
 
