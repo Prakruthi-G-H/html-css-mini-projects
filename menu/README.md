@@ -42,7 +42,7 @@ menu/
 - 🔽 Add dropdown menus for navigation items.
 - 📱 Implement a responsive hamburger menu for mobile devices.
 - 🔗 Link menu items to different sections or pages.
-- 📌 Add active page indicator
+- 📌 Highlight the active navigation item.
 
     
 ## 👩‍💻 Developed By
