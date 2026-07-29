@@ -31,7 +31,8 @@ menu/
 1. Download or clone the repository:  
    `git clone https://github.com/Prakruthi-G-H/html-css-mini-projects.git`
     
- 2. Navigate to the folder: menu/
+ 2. Navigate to the folder: 
+     `cd html-css-mini-projects/menu`
  3. Ensure both files are present in the folder:
     - index.html
     - Menu.css
