@@ -32,11 +32,13 @@ menu/
    `git clone https://github.com/Prakruthi-G-H/html-css-mini-projects.git`
     
  2. Navigate to the folder: 
-     `cd html-css-mini-projects/menu`
- 3. Ensure both files are present in the folder:
+    ```bash
+    cd html-css-mini-projects/menu
+    ```
+ 4. Ensure both files are present in the folder:
     - index.html
     - Menu.css
- 4. Open index.html in any modern web browser (Chrome, Firefox, Edge, etc.)
+ 5. Open index.html in any modern web browser (Chrome, Firefox, Edge, etc.)
 
 ## ✨ Future Enhancements
 - 🔽 Add dropdown menus for navigation items.
