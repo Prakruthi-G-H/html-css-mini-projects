@@ -32,6 +32,7 @@ Job Application Form - [Live Demo](https://job-application-form-ui.netlify.app/)
 - Include backend integration(Java Servlets)
 - Store submitted data in a database
 - Add success/error messages after form submission
+- Add theme options (light/dark mode)
 
 ## 🚀 How to Run
 
