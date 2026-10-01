@@ -20,7 +20,7 @@ A collection of beginner-friendly HTML & CSS mini projects created to strengthen
 | Job-Application-Form | Multiple form layouts including contact and register forms|
 | Login Form           | Modern login form UI examples                              |
 | Menu                 | Horizontal and vertical navigation menus           |
-| Profile Card         | 
+| Profile Card         | Personal portfolios or developer profiles
 | Radio-Button          |Custom radio button styling                  |
 | Rotating Text        | Animation of rotating words/text             |
 | Subscription Form     |Subscription form design                     |
