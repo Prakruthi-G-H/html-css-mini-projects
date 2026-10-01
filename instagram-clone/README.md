@@ -34,6 +34,7 @@ The goal of this project is to **practice real-world UI development** and improv
 - Add JavaScript-based login validation (fake alert or toast)
 - Add show/hide password functionality
 - Include animations for smoother transitions
+- Add theme options (light/dark mode)
 
 ## 🚀 How to Run
   
