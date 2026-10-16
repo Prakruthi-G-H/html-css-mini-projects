@@ -22,8 +22,8 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 - **📝 Informative Content Sections** – HTML, CSS, JavaScript, Java, Python explained clearly
 - **📱 Fully Responsive Design** – Automatically adjusts text size and spacing on smaller screens
 - **⚡ Lightweight & Fast** – Built with pure HTML + CSS (no JavaScript required)
-- **🎯 Radio Button Technique** - Each question expands independently using radio buttons Beginner-friendly structure and code
-
+- **🎯 Radio Button Technique** - Uses HTML radio buttons and CSS to expand and collapse FAQ answers without JavaScript.
+  
 ## 🚀 How to Run
   
 1. Download or clone the repository:  
