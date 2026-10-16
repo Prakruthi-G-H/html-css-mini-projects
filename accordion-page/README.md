@@ -23,6 +23,7 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 - **📱 Fully Responsive Design** – Automatically adjusts text size and spacing on smaller screens
 - **⚡ Lightweight & Fast** – Built with pure HTML + CSS (no JavaScript required)
 - **🎯 Radio Button Technique** - Uses HTML radio buttons and CSS to expand and collapse FAQ answers without JavaScript.
+- **💬 Beginner-Friendly Code** – Simple HTML and CSS structure that's easy to understand and maintain.
   
 ## 🚀 How to Run
   
