@@ -18,7 +18,7 @@ A collection of beginner-friendly HTML and CSS mini projects created to strength
 | Custom-ScrollBar     | Custom scrollbar styling                     |
 | Instagram-Clone       |Instagram-inspired UI clone |
 | Job-Application-Form | Job application form layouts|
-| Login Form           | Modern login form UI examples                              |
+| Login Form           | Login form UI design                             |
 | Menu                 | Horizontal and vertical navigation menus           |
 | Profile Card         | Personal portfolios or developer profiles
 | Radio-Button          |Custom radio button styling                  |
