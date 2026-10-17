@@ -14,7 +14,7 @@ A collection of beginner-friendly HTML and CSS mini projects created to strength
 | Project Name         | Description                                  |
 |----------------------|----------------------------------------------|
 | Accordion Page       | Expandable and collapsible FAQ section           |
-| Biography Card       | Simple and modern card layout                 |
+| Biography Card       | Simple biography card layout                 |
 | Custom-ScrollBar     | Custom scrollbar styling                     |
 | Instagram-Clone       |A basic UI clone of Instagram using HTML & CSS |
 | Job-Application-Form | Multiple form layouts including contact and register forms|
