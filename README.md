@@ -13,7 +13,7 @@ A collection of beginner-friendly HTML and CSS mini projects created to strength
 
 | Project Name         | Description                                  |
 |----------------------|----------------------------------------------|
-| Accordion Page       | Expandable/collapsible FAQ section           |
+| Accordion Page       | Expandable and collapsible FAQ section           |
 | Biography Card       | Simple and modern card layout                 |
 | Custom-ScrollBar     | Custom scrollbar styling                     |
 | Instagram-Clone       |A basic UI clone of Instagram using HTML & CSS |
