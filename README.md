@@ -17,7 +17,7 @@ A collection of beginner-friendly HTML and CSS mini projects created to strength
 | Biography Card       | Simple biography card layout                 |
 | Custom-ScrollBar     | Custom scrollbar styling                     |
 | Instagram-Clone       |Instagram-inspired UI clone |
-| Job-Application-Form | Multiple form layouts including contact and register forms|
+| Job-Application-Form | Job application form layouts|
 | Login Form           | Modern login form UI examples                              |
 | Menu                 | Horizontal and vertical navigation menus           |
 | Profile Card         | Personal portfolios or developer profiles
