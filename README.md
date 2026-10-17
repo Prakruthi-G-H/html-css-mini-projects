@@ -16,7 +16,7 @@ A collection of beginner-friendly HTML and CSS mini projects created to strength
 | Accordion Page       | Expandable and collapsible FAQ section           |
 | Biography Card       | Simple biography card layout                 |
 | Custom-ScrollBar     | Custom scrollbar styling                     |
-| Instagram-Clone       |A basic UI clone of Instagram using HTML & CSS |
+| Instagram-Clone       |Instagram-inspired UI clone |
 | Job-Application-Form | Multiple form layouts including contact and register forms|
 | Login Form           | Modern login form UI examples                              |
 | Menu                 | Horizontal and vertical navigation menus           |
