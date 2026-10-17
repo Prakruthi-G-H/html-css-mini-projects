@@ -1,6 +1,6 @@
 # 🎨 HTML & CSS Mini Projects
 
-A collection of beginner-friendly HTML & CSS mini projects created to strengthen my front-end development skills. Each project focuses on different UI components, layouts, and styling techniques while following clean and organized code practices.
+A collection of beginner-friendly HTML and CSS mini projects created to strengthen my frontend development skills through hands-on practice with web layouts, forms, UI components, and styling techniques.
 
 ## ✨ What's Included
 
